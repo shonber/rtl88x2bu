@@ -1,8 +1,8 @@
-# rtl88x2bu<br />
+# rtl88x2bu
 rtl88x2bu driver
 
 
-# How to install on linux.<br /><br />
+# How to install on linux.<br />
 Unplug the Wireless device <br />
 git clone https://github.com/shonber/rtl88x2bu.git<br />
 cd rtl88x2bu<br /><br />
